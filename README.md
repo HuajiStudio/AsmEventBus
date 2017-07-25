@@ -3,7 +3,7 @@ AsmEventBus
 
 *AsmEventBus* is an implementation of **event system** with asm. It is faster and more powerful {citation needed} than the *EventBus* of Google *Guava*.
 
-[![Build Status of Develop Branch](https://travis-ci.org/szszss/AsmEventBus.svg?branch=develop)](https://travis-ci.org/szszss/AsmEventBus)
+[![Build Status of Develop Branch](https://travis-ci.org/HuajiStudio/AsmEventBus.svg?branch=develop)](https://travis-ci.org/HuajiStudio/AsmEventBus)
 
 What is ASM
 -----------
