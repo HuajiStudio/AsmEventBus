@@ -18,7 +18,7 @@ eclipse {
 }
 
 sourceCompatibility = 1.5
-group = 'net.hakugyokurou.aeb'
+group = 'cc.huajistudio.aeb'
 version = "0.1"
 
 jar {
